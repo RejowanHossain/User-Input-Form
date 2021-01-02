@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-  <title>Object-Oriented PHP for Beginners</title>
+  <title>PHP for Beginners</title>
 <style>
 body {font-family: arial;font-size: 15px;line-height: 18px;margin: 0 auto;width: 850px;}
 a{color:#3399FF;}
@@ -33,7 +33,7 @@ input[type="submit"]{cursor: pointer}
 </head>
 <body>
   <header class="headeroption">
-    <h2>Object-Oriented PHP for Beginners</h2>
+    <h2>PHP for Beginners</h2>
   </header>
 <div class="content">
 <section class="subject">
